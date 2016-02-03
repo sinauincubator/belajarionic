@@ -36,6 +36,7 @@ Ada yang mencoba mencari alternatif workaround yang lain dan berhasil menjalanka
 2. Pindahkan direktori console ke dalam project `cd belajarionic` dan jalankan perintah `ionic platform add android` untuk memberi tahu ionic bahwa kita ingin meng-enable platform android
 3. Jalankan perintah `ionic build android` untuk nge-build project
 4. Jalankan perintah `ionic emulate android` untuk menjalankan project, akan muncul tampilan emulator android dan tunggu sampai proses menjalankan emulator selesai - biasanya ketika menjalankan emulator untuk pertama kali membutuhkan waktu yang cukup lama
+5. Jalankan perintah `ionic serve` jika ingin menjalankan dari web browser tanpa menggunakan android emulator
 
 Referensi:
 [Ionic getting started](http://ionicframework.com/docs/guide/installation.html)
